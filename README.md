@@ -10,3 +10,4 @@ Examples of problems that can be modeled as a constraint satisfaction problem in
 
 ### My repository:
 Provides two versions of the Crosswords puzzle, both of which are made from scratch. The first is formulated as a CSP and uses constraint programming. The other is a normal version.
+Made this during my sophomore year :)
