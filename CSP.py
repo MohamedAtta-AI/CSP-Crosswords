@@ -1,8 +1,6 @@
 from random import choice, randint
 from string import ascii_uppercase
 from termcolor import colored
-# Team leader: Asmaa El-Maghraby
-
 
 def generate_grid(r, c):
     return [[choice(ascii_uppercase) for c in range(columns)] for r in range(rows)]
